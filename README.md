@@ -76,7 +76,7 @@ The dataset contains employee-level information such as:
 * Performance ratings vary across departments
 
 ---
-
+![image alt](https://github.com/chiku1279/hr_analytics_tableau/blob/4c732642abcbcaf257bff574d6a293cebf26585f/Dashboard.png)
 ## 📂 Project Structure
 
 ```
